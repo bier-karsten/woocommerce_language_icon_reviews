@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Language Icon for Reviews
  * Description: Display the country of a review's author behind his name as a small country-icon.
- * Version: 1.3.1
+ * Version: 1.3.2
  * Author: Bier-Karsten
  * Author URI: https://github.com/bier-karsten
  * Developer: Bier-Karsten
