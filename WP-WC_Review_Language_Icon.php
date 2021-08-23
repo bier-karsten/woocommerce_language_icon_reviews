@@ -1,12 +1,12 @@
 <?php
 /**
  * Plugin Name: Language Icon for Reviews
- * Description: Dieses Plugin zeigt die Länderflaggen der Herkunftsländer von Rezensionen hinter dem Namen der Autoren an
- * Version: 1.3.0
- * Author: Adrian Hes
- * Author URI: https://wesselsmedien.de/
- * Developer: Adrian Hes
- * Developer URI: https://heselha.us/
+ * Description: Display the country of a review's author behind his name as a small country-icon.
+ * Version: 1.3.1
+ * Author: Bier-Karsten
+ * Author URI: https://github.com/bier-karsten
+ * Developer: Bier-Karsten
+ * Developer URI: https://github.com/bier-karsten
  * Text Domain: woocommerce-extension
  * Domain Path: /languages
  *
