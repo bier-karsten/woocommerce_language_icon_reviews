@@ -1,4 +1,4 @@
-# WooCommerce lnguage icon reviews
+# WooCommerce language icon reviews
 WP/WooCommerce plugin that adds the country flag of a review's author to the author's name
 
 ## What it does
